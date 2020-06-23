@@ -36,7 +36,7 @@ public class Login extends javax.swing.JFrame {
      */
 
     public Login() {
-        this.setTitle("Chương trình của Pizza Hups");
+        this.setTitle("Chương trình của Pizza Hups123");
         initComponents();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
